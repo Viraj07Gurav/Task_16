@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="relative">
       <div class="min-w-screen min-h-screen bg-gray-100 flex items-center justify-center px-5 pt-5 pb-24 border-2">
-      <div class="w-full max-w-md min-h-screen border-2">
+      <div class="w-full max-w-md min-h-screen ">
       <MainContent/>
        <LiveHealth/>
         <BottomNavigation/>
