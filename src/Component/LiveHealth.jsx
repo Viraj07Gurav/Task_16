@@ -17,14 +17,14 @@ function LiveHealth() {
             <div>
                 <div className='grid grid-flow-row-dense grid-cols-4 '>
                     <div className=' flex justify-end align-center h-6 '>
-                    <p className='  bg-[#ff9f0b] w-12 text-white text-center rounded '>2.56%</p>
+                    <p className='  bg-[#ff9f0b] w-12 text-white text-center rounded '>0.00%</p>
                     </div>
 
                     <div className='col-span-2 flex justify-center align-center'>
                         <div className=' flex flex-col justify-center items-center '>
                         <div className="w-24 h-24 border-15 border-blue-500 rounded-full">
                             </div>
-                            <p className='  bg-[#3080e4] w-14 text-white text-center rounded mt-2'>97.44%</p>
+                            <p className='  bg-[#3080e4] w-14 text-white text-center rounded mt-2'>100.00%</p>
                       
                         </div>
                     </div>
